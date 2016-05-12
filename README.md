@@ -23,5 +23,21 @@ I will implement algorithms taught in the course [Advanced Algorithm](http://lcb
 2. Optimal binary search trees
 
 ###Iterative Improvement
-1. Randomized Stable Marriage
-2. Multiplicative Weight Update
+1. Randomized Stable Marriage Problem
+2. Multiplicative Weight Update(Winnow)
+3. Ho-Kashyap learning algorithms
+4. Network Flow(Push-relable algorithms)
+
+###Streaming algorithm
+
+###Randomized algorithms in computational geometry
+1. Linear programming
+2. Voronoi Diagrams
+3. Delaunay triangulations
+
+###Random Sampling
+
+###Sublinear-time algorithms
+
+###Parallel algorithms
+
